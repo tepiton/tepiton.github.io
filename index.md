@@ -17,5 +17,5 @@ description: "a collection of GitHub Pages templates"
 | [eleventy-product](https://github.com/tepiton/eleventy-product) | [tepiton.com/eleventy-product](https://tepiton.com/eleventy-product/) | A product landing page template built with Eleventy v3: a section-composed homepage where every band of the page is a Markdown file. |
 | [eleventy-service](https://github.com/tepiton/eleventy-service) | [tepiton.com/eleventy-service](https://tepiton.com/eleventy-service/) | A service business landing page template built with Eleventy v3: a section-composed homepage where every band of the page is a Markdown file. |
 | [pandoc-simple](https://github.com/tepiton/pandoc-simple) | [tepiton.com/pandoc-simple](https://tepiton.com/pandoc-simple/) | A pandoc-based single-page Markdown site with no SSG toolchain. |
-| [mimeo.lol](https://github.com/tepiton/mimeo) | [mimeo.lol](https://mimeo.lol/) | Placeholder template that shows the name of the site |
+| [mimeo](https://github.com/tepiton/mimeo) | [mimeo.lol](https://mimeo.lol/) | Placeholder template that shows the name of the site |
 | [laptopistan](https://github.com/tepiton/laptopistan) | [tepiton.com/laptopistan](https://tepiton.com/laptopistan/) | Placeholder template that displays a picture from picsum.photos |
