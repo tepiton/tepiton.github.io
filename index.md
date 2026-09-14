@@ -31,7 +31,7 @@ A service business landing page template built with Eleventy v3: a section-compo
 ## [pandoc-simple](https://github.com/tepiton/pandoc-simple)  [•](https://tepiton.com/pandoc-simple/)
 A pandoc-based single-page Markdown site with no SSG toolchain.
 
-## [mimeo](https://github.com/tepiton/mimeo [•](https://mimeo.lol/)
+## [mimeo](https://github.com/tepiton/mimeo) [•](https://mimeo.lol/)
 Placeholder template that shows the `s i t e n a m e`
 
 ## [laptopistan](https://github.com/tepiton/laptopistan)  [•](https://tepiton.com/laptopistan/)
