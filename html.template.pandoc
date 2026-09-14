@@ -34,8 +34,8 @@ $endfor$
 
   <style>
 :root {
-  --font-body: Baskerville, Georgia, serif;
-  --font-heading: 'Gill Sans', 'Helvetica Neue', sans-serif;
+  --font-body:  serif;
+  --font-heading:  sans-serif;
 
   --color-bg: #fffff8;
   --color-text: #111;
@@ -266,34 +266,6 @@ th {
   margin-bottom: 0.5rem;
 }
 
-body > ul {
-  margin-block: 1.5em;
-}
-
-body > ul > li {
-  font-family: var(--font-heading);
-  font-weight: 600;
-  margin-block-start: 1.5em;
-}
-
-body > ul > li > ul {
-  margin-block-start: 0.15em;
-}
-
-body > ul > li > ul > li {
-  font-family: var(--font-body);
-  font-weight: 400;
-  margin-block-start: 0.15em;
-}
-
-body > ul > li > ul > li:first-child {
-  font-family: monospace;
-  font-size: 0.85em;
-}
-
-body > ul > li > ul > li:last-child {
-  font-size: 0.9em;
-}
   </style>
 $for(header-includes)$
   $header-includes$
