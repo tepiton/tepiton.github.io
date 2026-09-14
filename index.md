@@ -6,6 +6,8 @@ date: 2026-09-13
 description: ""
 ---
 
+Click the heading to go to the template repo. Click the dot • to see a sample
+
 
 ## [eleventy-chapbook](https://github.com/tepiton/eleventy-chapbook)  [•](https://tepiton.com/eleventy-chapbook/)
 An Eleventy v3 starter for chaptered literary sites. Designed for serialized fiction, novellas, and other long-form prose.
