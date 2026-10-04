@@ -2,7 +2,7 @@
 title: "tepiton templates"
 subtitle: ""
 author: ""
-date: 2026-09-13
+date: 2026-10-03
 description: ""
 ---
 
@@ -32,6 +32,9 @@ A service business landing page template built with Eleventy v3: a section-compo
 
 ## [pandoc-simple](https://github.com/tepiton/pandoc-simple)  [•](https://tepiton.com/pandoc-simple/)
 A pandoc-based single-page Markdown site with no SSG toolchain.
+
+## [pandoc-resume](https://github.com/tepiton/pandoc-resume)  [•](https://tepiton.com/pandoc-resume/)
+A resume site from one `resume.md`: `build.sh` (pandoc + weasyprint) renders HTML, PDF, DOCX, and TXT behind an index page.
 
 ## [mimeo](https://github.com/tepiton/mimeo) [•](https://mimeo.lol/)
 Placeholder template that shows the `s i t e n a m e`
