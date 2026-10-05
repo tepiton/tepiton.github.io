@@ -2,7 +2,7 @@
 title: "tepiton templates"
 subtitle: ""
 author: ""
-date: 2026-10-03
+date: 2026-10-04
 description: ""
 ---
 
@@ -11,9 +11,6 @@ Click the heading to go to the template repo. Click the dot • to see a sample
 
 ## [eleventy-chapbook](https://github.com/tepiton/eleventy-chapbook)  [•](https://tepiton.com/eleventy-chapbook/)
 An Eleventy v3 starter for chaptered literary sites. Designed for serialized fiction, novellas, and other long-form prose.
-
-## [eleventy-folio](https://github.com/tepiton/eleventy-folio) [•](https://tepiton.com/eleventy-folio/)
-An Eleventy v3 starter for chaptered literary sites. Polished defaults, extra features.
 
 ## [eleventy-pamphlet](https://github.com/tepiton/eleventy-pamphlet) [•](https://tepiton.com/eleventy-pamphlet/)
 An Eleventy v3 starter for short literary works: novellas, single-volume fiction, pamphlets. Minimal structure with two layouts.
